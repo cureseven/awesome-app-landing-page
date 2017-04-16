@@ -8,11 +8,11 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: ナヤミ # REQUIRED - Enter your app name
+  ios_id: cureseven@i.softbank.com # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: https://www.google.co.jp/search?q=%E3%83%8A%E3%83%A4%E3%83%9F&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi56LWTyqjTAhVDPrwKHVCzDtUQ_AUICSgC&biw=832&bih=671#imgrc=sZ6Ouy25KnU56M: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -36,11 +36,11 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 social-links:
   github:
   facebook:
-  twitter:
+  twitter: https://twitter.com/nayaminotane783
   pinterest:
   instagram:
   email:
-  youtube: # channel/<your_long_string> or <user-name>
+  youtube: https://www.youtube.com/channel/UCCHWCiwYA1vjHP8dJsCo4Jw # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 #
@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: ナヤミ # Optional - Enter your site title
+description: ナヤミ公式ホームページ．紀元前783年に結成 JPOPというジャンルに強く影響を受けたサウンドと適当でありながらなぜか心に響く歌詞を特徴とする4人組アイドル．山口県宇部市を拠点に活動を行う． # Optional - Enter your site description
 
 #
 # Google Analytics
